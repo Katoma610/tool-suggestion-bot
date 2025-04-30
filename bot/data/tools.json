@@ -1,0 +1,86 @@
+{
+  "design": {
+    "graphic_design": [
+      {
+        "name": "Figma",
+        "description": "Collaborative interface design tool with vector graphics capabilities",
+        "url": "https://www.figma.com",
+        "pricing": "Free tier available, paid plans from $12/month"
+      },
+      {
+        "name": "Canva",
+        "description": "User-friendly graphic design platform for non-designers",
+        "url": "https://www.canva.com",
+        "pricing": "Free with premium features at $12.99/month"
+      }
+    ],
+    "ui_ux": [
+      {
+        "name": "Adobe XD",
+        "description": "UI/UX design and prototyping tool",
+        "url": "https://www.adobe.com/products/xd.html",
+        "pricing": "Starts at $9.99/month"
+      }
+    ]
+  },
+  "development": {
+    "web": [
+      {
+        "name": "VS Code",
+        "description": "Popular code editor with extensive extensions",
+        "url": "https://code.visualstudio.com",
+        "pricing": "Free"
+      },
+      {
+        "name": "GitHub Copilot",
+        "description": "AI-powered code completion tool",
+        "url": "https://github.com/features/copilot",
+        "pricing": "$10/month"
+      }
+    ],
+    "devops": [
+      {
+        "name": "Docker",
+        "description": "Containerization platform for application deployment",
+        "url": "https://www.docker.com",
+        "pricing": "Free for personal use"
+      }
+    ]
+  },
+  "marketing": {
+    "social_media": [
+      {
+        "name": "Hootsuite",
+        "description": "Social media management and scheduling platform",
+        "url": "https://www.hootsuite.com",
+        "pricing": "From $99/month"
+      }
+    ],
+    "seo": [
+      {
+        "name": "Ahrefs",
+        "description": "SEO toolkit for keyword research and competitor analysis",
+        "url": "https://ahrefs.com",
+        "pricing": "From $99/month"
+      }
+    ]
+  },
+  "productivity": {
+    "task_management": [
+      {
+        "name": "Notion",
+        "description": "All-in-one workspace for notes, tasks, and databases",
+        "url": "https://www.notion.so",
+        "pricing": "Free for personal use, teams from $8/month"
+      }
+    ],
+    "documentation": [
+      {
+        "name": "Grammarly",
+        "description": "Writing assistant with grammar and style checks",
+        "url": "https://www.grammarly.com",
+        "pricing": "Free basic version, premium at $12/month"
+      }
+    ]
+  }
+}
